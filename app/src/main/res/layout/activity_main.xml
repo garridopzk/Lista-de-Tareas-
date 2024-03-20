@@ -25,7 +25,7 @@
         android:layout_marginTop="15dp"
         android:text="LISTA DE TAREAS"
         android:textAlignment="center"
-        android:textColor="#FF99FF"
+        android:textColor="#32FF00"
         android:fontFamily="sans-serif-black"
         android:background=""
         android:textSize="70px"/>
@@ -41,18 +41,18 @@
         android:id="@+id/ingreso"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="17dp"
         android:textColor="@color/black"
-        android:background="#33FFFF"
+        android:background="#4D00FF"
         android:textSize="70px"/>
 
     <TextView
         android:id="@+id/tareas"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="1dp"
         android:textColor="@color/white"
-        android:background="#9999FF"
+        android:background="#C54FCF"
         android:textSize="50px"/>
 
     <Button
